@@ -29,4 +29,3 @@ Kery M & Schaub M (2011) Bayesian Population Analysis
 using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
 }
 \keyword{datasets}
-
