@@ -3,7 +3,6 @@
 
  <!-- badges: start -->
   [![R build status](https://github.com/poissonconsulting/bauw/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/bauw/actions)
-  [![Codecov test coverage](https://codecov.io/gh/poissonconsulting/bauw/branch/master/graph/badge.svg)](https://codecov.io/gh/poissonconsulting/bauw?branch=master)
   <!-- badges: end -->
 
 
