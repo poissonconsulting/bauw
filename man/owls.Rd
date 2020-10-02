@@ -4,7 +4,9 @@
 \name{owls}
 \alias{owls}
 \title{Long-eared owl detections}
-\format{A data frame with 40 rows and 11 columns}
+\format{
+A data frame with 40 rows and 11 columns
+}
 \usage{
 owls
 }

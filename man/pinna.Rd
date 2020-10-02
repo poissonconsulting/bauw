@@ -4,7 +4,9 @@
 \name{pinna}
 \alias{pinna}
 \title{Pen shell detection data}
-\format{A data frame with 143 rows and 3 columns}
+\format{
+A data frame with 143 rows and 3 columns
+}
 \source{
 Kery & Schaub (2011 p.166) courtesy of Iris Hendriks and colleagues
 }

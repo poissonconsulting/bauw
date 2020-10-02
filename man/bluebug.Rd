@@ -4,7 +4,9 @@
 \name{bluebug}
 \alias{bluebug}
 \title{"Blue bug" Woodpile Counts}
-\format{A data frame with 27 rows and 21 columns}
+\format{
+A data frame with 27 rows and 21 columns
+}
 \usage{
 bluebug
 }

@@ -4,7 +4,9 @@
 \name{p610}
 \alias{p610}
 \title{Point count number 610 data}
-\format{A data frame with 146 rows and 9 columns}
+\format{
+A data frame with 146 rows and 9 columns
+}
 \source{
 Kery & Schaub (2011 p.157) courtesy of Jiri Reif
 }

@@ -4,7 +4,9 @@
 \name{leisleri}
 \alias{leisleri}
 \title{Leisler's bats survival data}
-\format{A data frame with 181 rows and 19 columns}
+\format{
+A data frame with 181 rows and 19 columns
+}
 \usage{
 leisleri
 }

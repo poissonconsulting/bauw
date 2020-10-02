@@ -4,7 +4,9 @@
 \name{fritillary}
 \alias{fritillary}
 \title{Fritillary butterfly abundance data}
-\format{A data frame with 665 rows and 4 columns}
+\format{
+A data frame with 665 rows and 4 columns
+}
 \usage{
 fritillary
 }

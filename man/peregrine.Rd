@@ -4,7 +4,9 @@
 \name{peregrine}
 \alias{peregrine}
 \title{Peregrine falcon breeding population data}
-\format{A data frame with 40 rows and 4 columns}
+\format{
+A data frame with 40 rows and 4 columns
+}
 \source{
 Kery & Schaub (2011 p.64-65) courtesy of R.-J. Monneret
 }

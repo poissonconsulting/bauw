@@ -4,7 +4,9 @@
 \name{orchids}
 \alias{orchids}
 \title{Showy lady's slipper capture-recapture data}
-\format{A data frame with 250 rows and 11 columns}
+\format{
+A data frame with 250 rows and 11 columns
+}
 \usage{
 orchids
 }

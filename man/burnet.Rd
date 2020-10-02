@@ -4,7 +4,9 @@
 \name{burnet}
 \alias{burnet}
 \title{Six-spot burnet moth counts}
-\format{A data frame with 665 rows and 4 columns}
+\format{
+A data frame with 665 rows and 4 columns
+}
 \usage{
 burnet
 }

@@ -4,7 +4,9 @@
 \name{hm}
 \alias{hm}
 \title{House martin annual counts}
-\format{A data frame with 20 rows and 2 columns}
+\format{
+A data frame with 20 rows and 2 columns
+}
 \usage{
 hm
 }

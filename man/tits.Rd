@@ -4,7 +4,9 @@
 \name{tits}
 \alias{tits}
 \title{Coal tits breeding survey data}
-\format{A data frame with 235 rows and 31 columns}
+\format{
+A data frame with 235 rows and 31 columns
+}
 \usage{
 tits
 }
