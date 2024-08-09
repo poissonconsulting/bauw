@@ -14,5 +14,5 @@
 #' @source Kery & Schaub (2011 p.166) courtesy of Iris Hendriks and colleagues
 #' @references
 #' Kery M & Schaub M (2011) Bayesian Population Analysis
-#' using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+#' using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 "pinna"

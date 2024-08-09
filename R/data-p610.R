@@ -16,5 +16,5 @@
 #' @source Kery & Schaub (2011 p.157) courtesy of Jiri Reif
 #' @references
 #' Kery M & Schaub M (2011) Bayesian Population Analysis
-#' using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+#' using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 "p610"

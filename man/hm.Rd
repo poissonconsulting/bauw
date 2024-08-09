@@ -18,12 +18,12 @@ collected by Reto Freuler from 1990 to 2009.
 \details{
 The variables are as follows:
 \itemize{
-  \item \code{hm} the count (integer).
-  \item \code{year} the year (integer).
+\item \code{hm} the count (integer).
+\item \code{year} the year (integer).
 }
 }
 \references{
 Kery M & Schaub M (2011) Bayesian Population Analysis
-using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 }
 \keyword{datasets}

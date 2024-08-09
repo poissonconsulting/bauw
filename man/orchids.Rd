@@ -19,12 +19,12 @@ Kery & Schaub (2011 p.166).
 \details{
 The variables are as follows:
 \itemize{
-  \item \code{V1, V2, ..., V11} the state of the individual plant by year
-  where 0 = undetected, 1 = vegetative and 2 = flowering.
+\item \code{V1, V2, ..., V11} the state of the individual plant by year
+where 0 = undetected, 1 = vegetative and 2 = flowering.
 }
 }
 \references{
 Kery M & Schaub M (2011) Bayesian Population Analysis
-using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 }
 \keyword{datasets}
