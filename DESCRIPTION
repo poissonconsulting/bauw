@@ -7,7 +7,7 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: file LICENSE
 Depends:
-    R (>= 3.3.0)
+    R (>= 4.0)
 Suggests: 
     covr
 Encoding: UTF-8
