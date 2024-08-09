@@ -20,14 +20,14 @@ breeding in the French Jura from 1964 to 2003.
 \details{
 The variables are as follows:
 \itemize{
-  \item \code{Year} the year (integer).
-  \item \code{Pairs} the number of adult pairs (integer).
-  \item \code{R.pairs} the number of reproductive pairs (integer).
-  \item \code{Eyasses} the number of fledged young (integer).
+\item \code{Year} the year (integer).
+\item \code{Pairs} the number of adult pairs (integer).
+\item \code{R.pairs} the number of reproductive pairs (integer).
+\item \code{Eyasses} the number of fledged young (integer).
 }
 }
 \references{
 Kery M & Schaub M (2011) Bayesian Population Analysis
-using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 }
 \keyword{datasets}

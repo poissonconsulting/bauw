@@ -19,12 +19,12 @@ Kery & Schaub (2011 p.231).
 \details{
 The variables are as follows:
 \itemize{
-  \item \code{V1, V2, ..., V19} an indicator variable specify whether or not the
-  individual was 0 = undetected or 1 = detected.
+\item \code{V1, V2, ..., V19} an indicator variable specify whether or not the
+individual was 0 = undetected or 1 = detected.
 }
 }
 \references{
 Kery M & Schaub M (2011) Bayesian Population Analysis
-using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 }
 \keyword{datasets}

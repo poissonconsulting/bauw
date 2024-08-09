@@ -15,5 +15,5 @@
 #' @source Kery & Schaub (2011 p.64-65) courtesy of R.-J. Monneret
 #' @references
 #' Kery M & Schaub M (2011) Bayesian Population Analysis
-#' using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+#' using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 "peregrine"

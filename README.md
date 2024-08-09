@@ -1,15 +1,15 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
- <!-- badges: start -->
-  [![R build status](https://github.com/poissonconsulting/bauw/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/bauw/actions)
-  <!-- badges: end -->
+# bauw
 
+<!-- badges: start -->
 
-bauw
-====
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![R-CMD-check](https://github.com/poissonconsulting/bauw/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/bauw/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 
-## Code of Conduct
+# bauw
 
-Please note that the bauw project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
-
+An R package of the data from Bayesian Analysis using WinBUGS

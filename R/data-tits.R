@@ -18,5 +18,5 @@
 #' @format A data frame with 235 rows and 31 columns
 #' @references
 #' Kery M & Schaub M Bayesian Population Analysis
-#' using WinBUGS. Academic Press. (\url{http://www.vogelwarte.ch/bpa})
+#' using WinBUGS. Academic Press. (\url{https://www.vogelwarte.ch/en/research/population-biology/book-bpa/})
 "tits"
