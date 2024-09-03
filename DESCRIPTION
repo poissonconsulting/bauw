@@ -1,5 +1,5 @@
 Package: bauw
-Title: Data from Bayesian Analysis using Winbugs
+Title: Data from Bayesian Population Analysis using Winbugs
 Version: 0.0.0.9001
 Authors@R: 
     person("Joe", "Thorley", , "joe@poissonconsulting.ca", role = c("aut", "cre"),

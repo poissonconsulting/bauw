@@ -4,7 +4,7 @@
 \name{bauw-package}
 \alias{bauw}
 \alias{bauw-package}
-\title{bauw: Data from Bayesian Analysis using Winbugs}
+\title{bauw: Data from Bayesian Population Analysis using Winbugs}
 \description{
 What the package does (one paragraph).
 }
