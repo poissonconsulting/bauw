@@ -16,3 +16,4 @@ RoxygenNote: 7.3.2
 Roxygen: list(markdown = TRUE)
 URL: https://github.com/poissonconsulting/bauw, https://poissonconsulting.github.io/bauw/
 BugReports: https://github.com/poissonconsulting/bauw/issues
+Config/Needs/website: poissonconsulting/poissontemplate
