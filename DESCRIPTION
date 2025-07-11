@@ -6,14 +6,15 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7683-4592"))
 Description: What the package does (one paragraph).
 License: file LICENSE
+URL: https://github.com/poissonconsulting/bauw,
+    https://poissonconsulting.github.io/bauw/
+BugReports: https://github.com/poissonconsulting/bauw/issues
 Depends:
     R (>= 4.0)
 Suggests: 
     covr
+Config/Needs/website: poissonconsulting/poissontemplate
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.3.2.9000
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/poissonconsulting/bauw, https://poissonconsulting.github.io/bauw/
-BugReports: https://github.com/poissonconsulting/bauw/issues
-Config/Needs/website: poissonconsulting/poissontemplate
+RoxygenNote: 7.3.2.9000
