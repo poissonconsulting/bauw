@@ -6,7 +6,7 @@
 \alias{bauw-package}
 \title{bauw: Data from Bayesian Population Analysis using Winbugs}
 \description{
-What the package does (one paragraph).
+An R package of the data from Bayesian Population Analysis using WinBUGS: A Hierarchical Perspective 1st Edition by Kéry and Schaub (2011).
 }
 \seealso{
 Useful links:
@@ -19,6 +19,11 @@ Useful links:
 }
 \author{
 \strong{Maintainer}: Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
+
+Authors:
+\itemize{
+  \item Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
+}
 
 }
 \keyword{internal}
